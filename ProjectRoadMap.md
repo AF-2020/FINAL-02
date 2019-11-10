@@ -1,8 +1,11 @@
 # Project Road Map
 ## Task list:
 
-- [x] 1)	Create Google CoLab account (Andrea)   Done
-- [x] 2)	Create a link to the Google Co-Lab notebook (Andrea)   Done
+
+
+:+1: 1)	Create Google CoLab account (Andrea)   Done
+
+:+1: 2)	Create a link to the Google Co-Lab notebook (Andrea)   Done
 - [ ] 3)	Research appropriate collection of medical images to use in the coding for Machine Learning project (Andrea)
 - [ ] 4)	Re-format image properties (size, resolution, and color) to match original images in the dataset (Andrea)
 - [ ] 5)	Edit existing code to input, insert, or add new images in CoLab (Andrea)
